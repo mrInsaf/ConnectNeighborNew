@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-carousel": "^0.18.0",
+    "vue-future-slider": "^1.0.5",
+    "vue-product-card": "^1.4.0",
+    "vue-slider-component": "^3.2.24"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
